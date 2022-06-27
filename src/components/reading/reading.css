@@ -1,0 +1,52 @@
+.reading   {
+    position: relative;
+}
+
+
+.read {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(50%,-50%);
+}
+.input {
+    position: absolute;
+    left: 112%;
+    top: 70%;
+    transform: translate(50%,50%);
+    
+}
+input[type="submit"] {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 30px 80px;
+    width: 120px;
+    cursor: pointer;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: var(--main-color);
+    border: none;
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+}
+   input[type="submit"]:hover {
+    background-color: var(--hover-color);
+  }
+  input[type="text"] {
+    padding: 10px;
+    margin: 10px 0px 20px 0px;
+    width: 240px;
+    border-radius: 5px;
+    outline: none;
+    caret-color: #128090;
+    border: 1px solid #128090;
+  }
+ label {
+    display: inline-block;
+    font-size: 22px;
+    color: var(--hover-color);
+ }

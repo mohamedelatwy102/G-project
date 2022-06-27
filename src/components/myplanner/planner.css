@@ -1,0 +1,35 @@
+.form-timer {
+    width: 300px;
+    margin: auto;
+}
+.form-timer form {
+    width: 100%;
+}
+.form-timer form .control {
+    margin-bottom: 2.2rem;
+}
+.form-timer form input {
+    padding: 0.4rem;
+    width: 100%;
+    font-size: 1.2rem;
+    
+}
+.form-timer form input:focus ,.form-timer form input{
+    border-width: 2px;
+    border-style: solid;
+    border-color: transparent transparent var(--main-color) transparent;
+    outline: none;
+}
+.form-timer form button{
+    width: 120px;
+    padding: 0.5rem 0.8rem;
+    background-color: var(--main-color);
+    color: #fff;
+    border: 1px solid var(--main-color);
+    outline: none;
+    cursor: pointer;
+}
+.form-timer form button:hover{
+    background-color: var(--hover-color);
+    border: 1px solid var(--hover-color);
+}

@@ -1,0 +1,85 @@
+.main2 {
+    display: flex;
+    justify-content: space-between;
+  }
+  .main2 div {
+    width: 50%;
+  }
+  .main2 div img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .main2 input:not(.gender) {
+    display: block;
+  }
+  .main2 .input {
+    width: 48%;
+    padding: 0.6rem 3rem;
+  }
+  .main2 label:not(.lab_gender) {
+    font-size: 20px;
+    display: inline-block;
+    padding-bottom: 0.5rem;
+    color: rgb(117, 54, 62);
+    font-weight: bold;
+  }
+  .main2 input[type="number"] {
+    font-size: 17px;
+    padding: 10px;
+    margin-bottom: 2.1rem;
+    width: 100%;
+    border-radius: 5px;
+    outline: none;
+    caret-color: #128090;
+    border: 1px solid #128090;
+}
+  .main2 input[type="radio"] {
+      display: inline-block;
+      margin-right: 1rem;
+    
+}
+  .main2 input[type="submit"] {
+    font-size: 18px;
+    width: 120px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #128090;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+  .main2 input[type="submit"]:hover {
+    background-color: var(--hover-color);
+  }
+  .main2 form .parent {
+    margin: 5px 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  .main2 form .parent .male {
+    width: 40%;
+  }
+  .main2 form .parent .female {
+    width: 40%;
+  }
+
+
+  @media(max-width:768px) {
+    .main2 {
+        flex-direction: column;
+        
+    }
+    .main2 div img {
+      display: none;
+    }
+    .main2 div {
+        width: 100%;
+      }
+      .main2 .input {
+        width: 80%;
+        padding: 0.6rem 3rem;
+      }
+  }

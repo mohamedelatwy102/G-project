@@ -1,0 +1,112 @@
+/* start advice-sport */
+.advice-sport .content-advice {
+    padding: 2rem;
+}
+
+.advice-sport .content-advice .header {
+    margin-bottom: 2rem;
+    font-size: 1.8rem;
+    color: #111;
+}
+
+.advice-sport .content-advice p {
+    color: #333;
+    font-weight: bold;
+    line-height: 1.8;
+    margin-bottom: 4rem;
+}
+
+.content-advice .question h2 {
+    margin-bottom: 3rem;
+}
+
+.content-advice .content-ques {
+    margin-bottom: 4rem;
+}
+
+.content-advice .content-ques h4 {
+    color: var(--hover-color);
+    margin-bottom: 0.5rem;
+}
+
+.content-advice .content-ques span {
+    display: block;
+    color: #444;
+}
+
+/* end advice-sport */
+
+/* start sport-content */
+.sport-box {
+    background-color: #F9F7F6;
+    padding: 2rem 2rem;
+}
+
+.sport-box .header {
+    margin-bottom: 2rem;
+}
+
+.sport-box .content-sport {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.5rem;
+}
+
+.sport-box .content-sport .box {
+    background-color: #fff;
+    box-shadow: 1px 3px 4px rgb(182, 182, 182);
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+}
+
+.sport-box .content-sport .box img {
+    width: 100%;
+}
+
+.sport-box .content-sport .box .text {
+    position: relative;
+    padding: 2rem;
+}
+
+.sport-box .content-sport .box .text::before {
+    content: "";
+    position: absolute;
+    border-width: 1rem;
+    top: -37px;
+    border-style: solid;
+    border-color: transparent transparent #fff transparent;
+}
+
+.sport-box .content-sport .box:hover {
+    background-color: #000;
+    color: #fff;
+    transform: translateY(-10px);
+    -webkit-transform: translateY(-10px);
+    -moz-transform: translateY(-10px);
+    -ms-transform: translateY(-10px);
+    -o-transform: translateY(-10px);
+}
+
+.sport-box .content-sport .box:hover .text::before {
+    border-color: transparent transparent #000 transparent;
+}
+
+.sport-box .content-sport .box:hover .text::after {
+    content: "";
+    position: absolute;
+    width: 80%;
+    margin: auto;
+    height: 3px;
+    border-radius: 0.3rem;
+    background-color: #fff;
+    top: 20px;
+    -webkit-border-radius: 0.3rem;
+    -moz-border-radius: 0.3rem;
+    -ms-border-radius: 0.3rem;
+    -o-border-radius: 0.3rem;
+}
+
+/* end sport-content */

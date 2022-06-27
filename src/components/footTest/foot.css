@@ -1,0 +1,9 @@
+.foot {
+    background: linear-gradient(rgba(0, 0, 0, 0.4),
+            rgba(0, 0, 0, 0.4)), url("../../assets/foot.jpeg") no-repeat center !important;
+    height: 80vh;
+}
+
+.margin {
+    margin-bottom: 4rem;
+}

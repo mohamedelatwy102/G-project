@@ -1,0 +1,209 @@
+{
+    "lowerCarb": [
+        {
+            "id": 1,
+            "name": "Better Mashed Potatoes",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/v67n01_p86_2685185025.jpg",
+            "details": [
+                "1/2 cup",
+                "60",
+                "7g",
+                "2g",
+                "2g"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Breakfast Quesadilla",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/diabetic-breakfast-quesadilla-tex-mex-cookbook_080318_1021x779_3885281428.jpg",
+            "details": [
+                "1 wedge",
+                "160",
+                "8g",
+                "10g",
+                "14g"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Latin Baked Fried Chicken",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1751-espanol-diabetic-pollo-frito-al-horno_latin-comfort-foods_13020_3885281428.jpg",
+            "details": [
+                "1 cutlet",
+                "200",
+                "9g",
+                "3.5g",
+                "32g"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Spinach and Parmesan Egg Bites",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1988-diabetic-Spinach-Parmesan-Quiche-Bites_KDBH-bookazine_012821_3885281428.jpg",
+            "details": [
+                "2 quiche bites",
+                "50",
+                "3g",
+                "1.5g",
+                "6g"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Budget-Friendly Asian Turkey Burgers",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/shutterstock_130134653_748886560.jpg",
+            "details": [
+                "1 burger",
+                "170",
+                "3g",
+                "9g",
+                "20g"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Savory Cauliflower and Cheese Cakes",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/jan2015-cauliflower-cakes_2249721274.jpg",
+            "details": [
+                "2 cakes",
+                "50",
+                "3g",
+                "2g",
+                "6g"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Meat Lover's Breakfast Cups",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1330-diabetic-meat-lovers-breakfast-cups_MFTK-weeknight-favorites_092718_1021x779_3885281428.jpg",
+            "details": [
+                "1 'muffin'",
+                "110",
+                "9g",
+                "5g",
+                "8g"
+            ]
+        }
+    ],
+    "sport": [
+        {
+            "id": 1,
+            "img": "https://diabetes.org/sites/default/files/styles/resources_card/public/2020-10/happy-fit-fitness-girl-exercising-indoor-in-fitnes-FWWRXU7.jpg",
+            "des": "Anaerobic vs. Aerobic Exercise"
+        },
+        {
+            "id": 2,
+            "img": "https://diabetes.org/sites/default/files/styles/resources_card/public/2020-10/happy-fit-fitness-girl-exercising-indoor-in-fitnes-FWWRXU7.jpg",
+            "des": "Anaerobic vs. Aerobic Exercise"
+        },
+        {
+            "id": 3,
+            "img": "https://diabetes.org/sites/default/files/styles/resources_card/public/2020-10/happy-fit-fitness-girl-exercising-indoor-in-fitnes-FWWRXU7.jpg",
+            "des": "Anaerobic vs. Aerobic Exercise"
+        },
+        {
+            "id": 4,
+            "img": "https://diabetes.org/sites/default/files/styles/resources_card/public/2020-10/happy-fit-fitness-girl-exercising-indoor-in-fitnes-FWWRXU7.jpg",
+            "des": "Anaerobic vs. Aerobic Exercise"
+        },
+        {
+            "id": 5,
+            "img": "https://diabetes.org/sites/default/files/styles/resources_card/public/2020-10/happy-fit-fitness-girl-exercising-indoor-in-fitnes-FWWRXU7.jpg",
+            "des": "Anaerobic vs. Aerobic Exercise"
+        },
+        {
+            "id": 6,
+            "img": "https://diabetes.org/sites/default/files/styles/resources_card/public/2020-10/happy-fit-fitness-girl-exercising-indoor-in-fitnes-FWWRXU7.jpg",
+            "des": "Anaerobic vs. Aerobic Exercise"
+        },
+        {
+            "id": 7,
+            "img": "https://diabetes.org/sites/default/files/styles/resources_card/public/2020-10/happy-fit-fitness-girl-exercising-indoor-in-fitnes-FWWRXU7.jpg",
+            "des": "Anaerobic vs. Aerobic Exercise"
+        },
+        {
+            "id": 8,
+            "img": "https://diabetes.org/sites/default/files/styles/resources_card/public/2020-10/happy-fit-fitness-girl-exercising-indoor-in-fitnes-FWWRXU7.jpg",
+            "des": "Anaerobic vs. Aerobic Exercise"
+        },
+        {
+            "id": 9,
+            "img": "https://diabetes.org/sites/default/files/styles/resources_card/public/2020-10/happy-fit-fitness-girl-exercising-indoor-in-fitnes-FWWRXU7.jpg",
+            "des": "Anaerobic vs. Aerobic Exercise"
+        }
+    ],
+    "food": [
+        {
+            "id": 1,
+            "name": "Breakfast Quesadilla",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/diabetic-breakfast-quesadilla-tex-mex-cookbook_080318_1021x779_3885281428.jpg",
+            "des": "breakfast"
+        },
+        {
+            "id": 2,
+            "name": "Breakfast Quesadilla",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/diabetic-breakfast-quesadilla-tex-mex-cookbook_080318_1021x779_3885281428.jpg",
+            "des": "breakfast"
+        },
+        {
+            "id": 3,
+            "name": "Breakfast Quesadilla",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/diabetic-breakfast-quesadilla-tex-mex-cookbook_080318_1021x779_3885281428.jpg",
+            "des": "breakfast"
+        },
+        {
+            "id": 4,
+            "name": "Breakfast Quesadilla",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/diabetic-breakfast-quesadilla-tex-mex-cookbook_080318_1021x779_3885281428.jpg",
+            "des": "breakfast"
+        },
+        {
+            "id": 5,
+            "name": "Latin Baked Fried Chicken",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1751-espanol-diabetic-pollo-frito-al-horno_latin-comfort-foods_13020_3885281428.jpg",
+            "des": "lunch"
+        },
+        {
+            "id": 6,
+            "name": "Latin Baked Fried Chicken",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1751-espanol-diabetic-pollo-frito-al-horno_latin-comfort-foods_13020_3885281428.jpg",
+            "des": "lunch"
+        },
+        {
+            "id": 7,
+            "name": "Latin Baked Fried Chicken",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1751-espanol-diabetic-pollo-frito-al-horno_latin-comfort-foods_13020_3885281428.jpg",
+            "des": "lunch"
+        },
+        {
+            "id": 8,
+            "name": "Latin Baked Fried Chicken",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1751-espanol-diabetic-pollo-frito-al-horno_latin-comfort-foods_13020_3885281428.jpg",
+            "des": "lunch"
+        },
+        {
+            "id": 9,
+            "name": "Spinach and Parmesan Egg Bites",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1988-diabetic-Spinach-Parmesan-Quiche-Bites_KDBH-bookazine_012821_3885281428.jpg",
+            "des": "dinner"
+        },
+        {
+            "id":10,
+            "name": "Spinach and Parmesan Egg Bites",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1988-diabetic-Spinach-Parmesan-Quiche-Bites_KDBH-bookazine_012821_3885281428.jpg",
+            "des": "dinner"
+        },
+        {
+            "id": 11,
+            "name": "Spinach and Parmesan Egg Bites",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1988-diabetic-Spinach-Parmesan-Quiche-Bites_KDBH-bookazine_012821_3885281428.jpg",
+            "des": "dinner"
+        },
+        {
+            "id":12,
+            "name": "Spinach and Parmesan Egg Bites",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1988-diabetic-Spinach-Parmesan-Quiche-Bites_KDBH-bookazine_012821_3885281428.jpg",
+            "des": "dinner"
+        }
+    ]
+}

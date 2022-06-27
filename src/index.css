@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+    text-decoration: none;
+    list-style: none;
+    scroll-behavior: smooth;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+    width: 10px;
+    border-radius: 2rem;
+    -webkit-border-radius: 2rem;
+    -moz-border-radius: 2rem;
+    -ms-border-radius: 2rem;
+    -o-border-radius: 2rem;
+}
+::-webkit-scrollbar-thumb {
+    background-color: var(--hover-color);
+    border-radius: 2rem;
+    -webkit-border-radius: 2rem;
+    -moz-border-radius: 2rem;
+    -ms-border-radius: 2rem;
+    -o-border-radius: 2rem;
+}
+::-webkit-scrollbar-track {
+    box-shadow: inset 2px 4px 6px #222;
+}
+:root {
+    --hover-color: #AA182C;
+    --main-color: #128090;
+    --w-color: #F9F7F6;
+}
+
+.container {
+    width: 85%;
+    margin: auto;
+}
